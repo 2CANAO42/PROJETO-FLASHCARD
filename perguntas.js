@@ -1,0 +1,24 @@
+
+criaCartao(
+    'TERROR',
+    'QUAL O NOME DO PERSONAGEM DE FILME DE TERROR QUE POSSUI GARRAS EM UMA MÃO E ENTRA NO PESADELO DE PESSOAS?',
+    'Freddy Krueger'
+)
+
+criaCartao(
+    'TERROR',
+    'COMO QUE JASON DO FILME SEXTA FEIRA 13, MORREU PARA SE TORNAR UM ASSASSINO?',
+    'Morreu afogado por adolescentes'
+)
+
+criaCartao(
+    'TERROR',
+    'QUAL O NOME DO FILME ONDE UM ASSASSINO VESTE UMA MÁSCARA BRANCA E SAI EM UMA DATA ESPECÍFICA PARA MATAR PESSOAS?',
+    'Halloween'
+)
+
+criaCartao(
+    'TERROR',
+    'DO QUE PENNYWISE O PALHAÇO DANÇARINO SE ALIMENTA DAS PESSOAS?',
+    'Do medo das pessoas'
+)
